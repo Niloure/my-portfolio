@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: my-portfolio
+    env: docker
+    plan: free
